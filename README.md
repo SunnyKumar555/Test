@@ -1,5 +1,5 @@
 # Test
-Test Repository/Hello World
+Test Repository
 
 Making sure everything's set up correctly!
 
